@@ -1,0 +1,4 @@
+# command 
+
+ +customhelp
++dmall  [message}
